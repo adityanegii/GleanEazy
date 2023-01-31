@@ -1,0 +1,24 @@
+.searchField {
+    margin-bottom: 0.5rem;
+}
+
+.searchField, .formControl {
+    padding: 2rem;
+}
+
+.eventSelected{
+    font-size: 20px;
+}
+
+.eventInfo{
+    margin: auto;
+    width: 75%;
+    font-size: 10px;
+}
+
+.buttonWrapper{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
